@@ -2,3 +2,9 @@
   background-color: #ebe2dd;
   font-family: Garamond, "Times New Roman" serif;
 }
+h1 {
+  color: #4f4b46;
+  margin-top: 0;
+  background-color: #d9b216;
+  text-align: center;
+}
